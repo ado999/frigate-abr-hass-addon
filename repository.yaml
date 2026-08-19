@@ -1,3 +1,3 @@
-name: Frigate Add-ons
-url: "https://github.com/blakeblackshear/frigate-hass-addons"
-maintainer: blakeblackshear
+name: Frigate Add-on with adaptive bitrate
+url: "https://github.com/ado999/frigate-abr-hass-addon"
+maintainer: ado999
